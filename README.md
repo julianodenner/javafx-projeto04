@@ -12,4 +12,4 @@
     <li>Criar a classe principal e executar a aplicação </li>
   </ol>
 </p>
-<a href="https://youtu.be/dkvsqqMeBNk"><img src="http://jdenner.com/resources/btn-video.png" alt=""></a>
+<a href="https://youtu.be/dkvsqgMeBNk"><img src="http://jdenner.com/resources/btn-video.png" alt=""></a>
